@@ -56,7 +56,7 @@
 - `09-five-hot-article-models.md`：五大爆文模型库
 - `10-execution-templates.md`：爆文拆解、文章生成、质检执行模板
 - `11-fourteen-day-topic-plan.md`：14天选题升级计划
-- `12-no-ai-style-rule.md`：去AI味表达硬规则
+- `12-no-ai-style-rule.md`：去AI味表达硬规则\n- `13-three-author-benchmark-upgrade.md`：三作者竞品分析、优缺点与融合写法
 
 ## 升级后的执行流程
 
