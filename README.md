@@ -56,7 +56,9 @@
 - `09-five-hot-article-models.md`：五大爆文模型库
 - `10-execution-templates.md`：爆文拆解、文章生成、质检执行模板
 - `11-fourteen-day-topic-plan.md`：14天选题升级计划
-- `12-no-ai-style-rule.md`：去AI味表达硬规则\n- `13-three-author-benchmark-upgrade.md`：三作者竞品分析、优缺点与融合写法
+- `12-no-ai-style-rule.md`：去AI味表达硬规则
+- `13-three-author-benchmark-upgrade.md`：三作者竞品分析、优缺点与融合写法
+- `14-author-persona-and-signature.md`：第一人称作者人设、经历一致性与账号辨识度规则
 
 ## 升级后的执行流程
 
@@ -65,21 +67,21 @@
 ```text
 爆文样本
   ↓
-标准拆解
+判断可学与不可学
   ↓
 归类到五大模型
   ↓
+用第一人称作者经历重构
+  ↓
+检查人设与经历一致性
+  ↓
 重写标题
   ↓
-重写生活场景开头
+搭建三层正文：生活 + 判断 + 出口
   ↓
-搭建三段式正文
+设计有辨识度的开头与结尾
   ↓
-补充女性现实细节
-  ↓
-加入温柔出口
-  ↓
-质检去AI味
+质检去AI味与模板味
   ↓
 沉淀到选题库
 ```
